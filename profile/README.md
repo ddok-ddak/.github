@@ -3,6 +3,10 @@
 - 두던나우는 금보다도 귀한 우리의 시간을 더 효율적으로 활용하는 것을 돕기 위해 제작된 서비스입니다.
 - 소비한 시간을 기록하고 당신의 시간을 돌아보세요.
 
+## 두던나우 알아보기
+- https://dodonenow.com
+- rest-docs : https://dodonenow.com/docs/index.html
+
 <!--
 
 **Here are some ideas to get you started:**
